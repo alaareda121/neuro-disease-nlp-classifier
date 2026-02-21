@@ -80,7 +80,7 @@ This project applies Natural Language Processing to analyze the clinical progres
 
 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+git clone https://github.com/alaareda121/neuro-disease-nlp-classifier.git
 ```
 
 2. Install dependencies
